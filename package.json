@@ -1,0 +1,19 @@
+{
+  "name": "responsive-website-template",
+  "version": "1.0.0",
+  "description": "Mẫu Website Phản Hồi",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "keywords": ["website", "responsive", "template"],
+  "author": "Your Name",
+  "license": "MIT"
+}
